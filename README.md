@@ -13,10 +13,9 @@ O sistema simula a leitura de temperatura e aciona LEDs correspondentes:
 As leituras são simuladas no código e exibidas via UART, permitindo o monitoramento remoto da temperatura.
 
 ## 🛠️ Hardware Utilizado
+- 💻 BitDogLab
 - 🖥️ Raspberry Pi Pico W
 - 💡 3 LEDs (vermelho, azul e verde)
-- 🔩 Resistores de 330Ω para os LEDs
-- 🔌 Fios de conexão
 
 ## ⚙️ Configuração dos Pinos
 - **🔴 LED Vermelho:** GP13
@@ -35,5 +34,5 @@ As leituras são simuladas no código e exibidas via UART, permitindo o monitora
 - 📶 Envio dos dados para um servidor via Wi-Fi para monitoramento remoto.
 - 🔊 Implementação de um sistema de alerta sonoro para temperaturas críticas.
 
----
+
 💡 Este projeto é ideal para aprendizado sobre sistemas embarcados, GPIO, UART e monitoramento ambiental usando o Raspberry Pi Pico W.
