@@ -15,7 +15,7 @@ As leituras são simuladas no código e exibidas via UART, permitindo o monitora
 ## 🛠️ Hardware Utilizado
 - 💻 BitDogLab
 - 🖥️ Raspberry Pi Pico W
-- 💡 3 LEDs (vermelho, azul e verde)
+- 💡 LED RGB (vermelho, azul e verde)
 
 ## ⚙️ Configuração dos Pinos
 - **🔴 LED Vermelho:** GP13
